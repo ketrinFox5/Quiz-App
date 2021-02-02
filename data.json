@@ -1,0 +1,72 @@
+{
+    "questions" : [
+        {
+            "question": "What is 2 + 2",
+            "answers" : [
+                {
+                    "text" : "4",
+                    "correct" : true
+                },
+                {
+                    "text" : "6",
+                    "correct" : false
+                }
+            ]
+        },
+        {
+            "question": "What is 5 * 5",
+            "answers" : [
+                {
+                    "text" : "10",
+                    "correct" : false
+                },
+                {
+                    "text" : "25",
+                    "correct" : true
+                }
+            ]
+        },
+        {
+            "question": "How many time zones are there in Russia?",
+            "answers" : [
+                {
+                    "text" : "9",
+                    "correct" : false
+                },
+                {
+                    "text" : "12",
+                    "correct" : false
+                },
+                {
+                    "text" : "15",
+                    "correct" : false
+                },
+                {
+                    "text" : "11",
+                    "correct" : true
+                }
+            ]
+        },
+        {
+            "question": "How many legs does a lobster have?",
+            "answers" : [
+                {
+                    "text" : "Six",
+                    "correct" : false
+                },
+                {
+                    "text" : "Eight",
+                    "correct" : true
+                },
+                {
+                    "text" : "Ten",
+                    "correct" : false
+                },
+                {
+                    "text" : "Twelve",
+                    "correct" : false
+                }
+            ]
+        }
+    ]
+}
